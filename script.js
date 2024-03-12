@@ -14,7 +14,7 @@ console.log("Hello")
 
 // For others
 // git clone link
-// after added code
+// after contribute code
 // git add . 
 // git commit -m "msg"
 //git branch -M branch_Name 
